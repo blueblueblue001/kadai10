@@ -162,7 +162,7 @@ if ($status === false) {
       });
     }
   </script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBEa1T_F6ngy7gP9_nrXXTSZmVfqsYon3M&callback=initMap&language=en" async defer></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=””&callback=initMap&language=en" async defer></script>
   <script src="js/script.js"></script>
   </body>
   
